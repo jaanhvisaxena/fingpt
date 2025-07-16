@@ -1,0 +1,2 @@
+method,ocr_snippet,currency,invoice_number,date,vendor,amount,tax_cgst,tax_sgst,tax_igst,tax_total
+regex," --- Page 1 --- GS ced invoices  From: DEMO - Sliced Invoices  Invoice  Invoice Number  INV-3337  Order Number  12345  Suite 5A-1204 Invoice Date January 25, 2016  123 Somewhere Street Due Date January 31, 2016  Your City AZ 12345 Tolal D  admin @slicedinvoices.com otal Due $93.50  To:  Test Busines…",$,INV-3337,,DEMO - Sliced Invoices,12345.00,,,,8.50
