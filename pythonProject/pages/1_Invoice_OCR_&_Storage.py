@@ -54,7 +54,6 @@ MODEL_PATH     = r"C:\\college\\Internships\\FinGpt\\pythonProject\\models\\mist
 
 pytesseract.pytesseract.tesseract_cmd = TESSERACT_PATH
 
-st.set_page_config(page_title="FinGPT – Invoice OCR", layout="wide")
 st.title("FinGPT – Offline OCR → Structured Invoice Data")
 
 uploaded_file = st.file_uploader(
